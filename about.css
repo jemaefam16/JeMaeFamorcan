@@ -67,7 +67,7 @@ nav{
 .name{
 	width: 500px;
 	position: absolute;
-	left: 16%;
+	left: 15%;
         margin-top:250px;
         margin-bottom:80px;
 	transform: translate(-20%,-50%);
@@ -76,7 +76,7 @@ nav{
 
 .name h1{
 	font-family:Lucida Handwriting;
-	font-size: 18px;
+	font-size: 17px;
         text-align:left;
 	margin:2px;
 	letter-spacing: 2px;
